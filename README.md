@@ -1,16 +1,12 @@
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
 
-<!-- TOP-LEFT: photo + quote -->
+<!-- TOP-LEFT: photo + quote merged -->
 <td valign="top" align="center" width="320">
 
-<br/>
-
-<img src="https://avatars.githubusercontent.com/akasajal" width="280" alt="Sajal"/>
-
-<br/><br/><br/><br/>
+<img src="https://avatars.githubusercontent.com/akasajal" width="280" style="border-radius: 16px; border: 1px solid #444;" alt="Sajal"/>
 
 ```
   Living in maybes, dreaming in gray,
@@ -33,7 +29,7 @@
     "Author"
   ],
   "website" : "sajalworks.vercel.app",
-
+  
   "random_facts" : [
     "Loves rainy evenings",
     "Believes good UI matters",
@@ -46,7 +42,7 @@
 </td>
 </tr>
 
-<!-- BOTTOM: other details + footer -->
+<!-- BOTTOM: other details full width -->
 <tr>
 <td colspan="2" valign="top" align="left">
 
@@ -81,9 +77,7 @@
   }
 }
 ```
-
 ---
-
 ```json
 {
   "currently"   : "in between ideas",
@@ -91,7 +85,6 @@
   "ask_me_about": ["philosophy", "space", "why your code is broken"]
 }
 ```
-
 </td>
 </tr>
 </table>
