@@ -8,48 +8,32 @@
 <!-- │                        OUTER TERMINAL CARD                     │ -->
 <!-- └─────────────────────────────────────────────────────────────────┘ -->
 
-<table style="border: 2px solid #3a3a3a; border-radius: 12px; background:#0d0d0d; padding: 16px;">
+<table>
 <tr>
 
-<!-- ┌──────────────┐ -->
-<!-- │    PHOTO     │ -->
-<!-- └──────────────┘ -->
-<td width="160" valign="top" align="center" style="padding: 12px;">
+<!-- TOP-LEFT: photo + quote merged -->
+<td valign="top" width="300">
 
-<!-- Replace the src below with your actual image URL after uploading -->
-<img src="https://avatars.githubusercontent.com/akasajal" width="130" height="130" style="border-radius: 10px; border: 1px solid #3a3a3a;" alt="Sajal"/>
-
-</td>
-
-<!-- ┌─────────────────────────────────┐ -->
-<!-- │            QUOTE                │ -->
-<!-- └─────────────────────────────────┘ -->
-<td width="280" valign="middle" align="center" style="padding: 12px;">
+<img src="https://avatars.githubusercontent.com/akasajal" width="260" style="border-radius: 10px;" alt="Sajal"/>
 
 ```
-╭─────────────────────────────────╮
-│                                 │
-│  Living in maybes,              │
-│  dreaming in gray,              │
-│  Asking the questions           │
-│  that won't fade away.          │
-│                                 │
-╰─────────────────────────────────╯
+ Living in maybes,
+ dreaming in gray,
+ Asking the questions
+ that won't fade away.
 ```
 
 </td>
 
-<!-- ┌─────────────────────────────────┐ -->
-<!-- │           ABOUT JSON            │ -->
-<!-- └─────────────────────────────────┘ -->
-<td width="280" valign="top" style="padding: 12px;">
+<!-- TOP-RIGHT: about json -->
+<td valign="top">
 
 ```json
 {
   "name"    : "Sajal",
   "role"    : [
     "Engineering Student",
-    "Full-Stack Developer",
+    "Full-Stack Dev",
     "Desktop Dev",
     "Android Dev",
     "Author"
@@ -61,18 +45,29 @@
 </td>
 </tr>
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!-- │                      OTHER DETAILS (full width)                 │ -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
+<!-- BOTTOM: other details full width -->
 <tr>
-<td colspan="3" style="padding: 12px;">
+<td colspan="2" valign="top">
 
 ```json
 {
-  "languages"  : ["C", "Python", "Java", "JavaScript", "TypeScript", "Kotlin", "SQL"],
-  "frameworks" : ["FastAPI", "Next.js", "React", "PySide6", "SQLAlchemy"],
-  "databases"  : ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
-  "tools"      : ["Git", "GitHub", "Node.js", "Alembic", "Mutagen"],
+  "languages"  : [
+    "C", "Python", "Java",
+    "JavaScript", "TypeScript",
+    "Kotlin", "SQL"
+  ],
+  "frameworks" : [
+    "FastAPI", "Next.js", "React",
+    "PySide6", "SQLAlchemy"
+  ],
+  "databases"  : [
+    "PostgreSQL", "MySQL",
+    "SQLite", "MongoDB"
+  ],
+  "tools"      : [
+    "Git", "GitHub", "Node.js",
+    "Alembic", "Mutagen"
+  ],
   "interests"  : [
     "Novel Writing  — stories of love, loss, and the people we become",
     "Poetry         — turning fleeting thoughts into words that linger",
