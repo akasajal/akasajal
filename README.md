@@ -85,9 +85,12 @@
 
 ---
 
-### GitHub Stats
-
-![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akasajal&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a0a0a0&text_color=6e6e6e&icon_color=555555)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akasajal&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a0a0a0&text_color=6e6e6e)
-
 </div>
+
+```json
+{
+  "currently"   : "in between ideas",
+  "fun_fact"    : "i write novels and code in the same sitting",
+  "ask_me_about": ["philosophy", "space", "why your code is broken"]
+}
+```
