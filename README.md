@@ -9,6 +9,7 @@
 <img src="https://avatars.githubusercontent.com/akasajal" width="280" style="border-radius: 16px; border: 1px solid #444;" alt="Sajal"/>
 
 ```
+
   Living in maybes, dreaming in gray,
   Asking the questions that won't fade away.
 ```
@@ -28,6 +29,7 @@
     "Android Dev",
     "Author"
   ],
+
   "website" : "sajalworks.vercel.app",
   
   "random_facts" : [
