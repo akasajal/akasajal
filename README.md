@@ -12,21 +12,19 @@
 <tr>
 
 <!-- TOP-LEFT: photo + quote merged -->
-<td valign="top" width="300">
+<td valign="top" align="left" width="300">
 
-<img src="https://avatars.githubusercontent.com/akasajal" width="260" style="border-radius: 10px;" alt="Sajal"/>
+<img src="https://avatars.githubusercontent.com/akasajal" width="300" style="border-radius: 10px;" alt="Sajal"/>
 
 ```
- Living in maybes,
- dreaming in gray,
- Asking the questions
- that won't fade away.
+ Living in maybes, dreaming in gray,
+ Asking the questions that won't fade away.
 ```
 
 </td>
 
 <!-- TOP-RIGHT: about json -->
-<td valign="top">
+<td valign="top" align="left">
 
 ```json
 {
@@ -47,7 +45,7 @@
 
 <!-- BOTTOM: other details full width -->
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2" valign="top" align="left">
 
 ```json
 {
