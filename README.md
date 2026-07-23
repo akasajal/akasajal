@@ -12,13 +12,14 @@
 <tr>
 
 <!-- TOP-LEFT: photo + quote merged -->
-<td valign="top" align="left" width="300">
+<td valign="top" align="left" width="320">
 
-<img src="https://avatars.githubusercontent.com/akasajal" width="300" style="border-radius: 10px;" alt="Sajal"/>
+<img src="https://avatars.githubusercontent.com/akasajal" width="320" style="border-radius: 10px; display:block;" alt="Sajal"/>
 
 ```
- Living in maybes, dreaming in gray,
- Asking the questions that won't fade away.
+  Living in maybes, dreaming in gray,
+  Asking the questions that won't fade away.
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
 
 </td>
