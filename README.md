@@ -36,7 +36,13 @@
     "Android Dev",
     "Author"
   ],
-  "website" : "sajalworks.vercel.app"
+  "website" : "sajalworks.vercel.app",
+  "random_facts" : [
+    "Loves rainy evenings",
+    "Believes good UI matters",
+    "Enjoys solving weird bugs",
+    "Writes stories occasionally"
+  ]
 }
 ```
 
@@ -82,8 +88,6 @@
 </td>
 </tr>
 </table>
-
----
 
 </div>
 
