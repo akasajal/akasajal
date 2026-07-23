@@ -4,17 +4,17 @@
 
 <div align="center">
 
-<!-- ┌─────────────────────────────────────────────────────────────────┐ -->
-<!-- │                        OUTER TERMINAL CARD                     │ -->
-<!-- └─────────────────────────────────────────────────────────────────┘ -->
-
 <table>
 <tr>
 
-<!-- TOP-LEFT: photo + quote merged -->
+<!-- TOP-LEFT: photo + quote -->
 <td valign="top" align="center" width="320">
 
-<img src="https://avatars.githubusercontent.com/akasajal" width="280" style="border-radius: 16px; border: 1px solid #444;" alt="Sajal"/>
+<br/>
+
+<img src="https://avatars.githubusercontent.com/akasajal?v=4&s=280" width="280" alt="Sajal"/>
+
+<br/><br/><br/><br/>
 
 ```
   Living in maybes, dreaming in gray,
@@ -87,9 +87,10 @@
 
 </td>
 </tr>
-</table>
 
-</div>
+<!-- FOOTER -->
+<tr>
+<td colspan="2" valign="top" align="left">
 
 ```json
 {
@@ -98,3 +99,9 @@
   "ask_me_about": ["philosophy", "space", "why your code is broken"]
 }
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
