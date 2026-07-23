@@ -29,7 +29,6 @@
     "Android Dev",
     "Author"
   ],
-
   "website" : "sajalworks.vercel.app",
   
   "random_facts" : [
